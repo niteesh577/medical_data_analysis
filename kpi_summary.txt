@@ -1,0 +1,5 @@
+Total Sales: 1555066.09
+Total Transactions: 1000
+Average Sale Per Transaction: 1555.06609
+Average Rating: 3.0494
+Total Customers: 1000
